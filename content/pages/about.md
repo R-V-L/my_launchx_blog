@@ -2,20 +2,16 @@
 title: 'Acerca de'
 menu:
   main:
-    name: "AboutMe"
+    name: "Acerca de"
 ---
 
 ## Who am I
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Naci en 🇲🇽
+> Tengo 28 años de edad
+> Actualmente trabajo como analista en sistemas
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+**¡Hola!** Hace muchisimo tiempo que me llama la atencion la programacion, sin embargo casi todo lo que he habia realizado son pequeños proyectos en Python, a excepcion de los ultimos meses, donde en mi empleo he servido de apoyo para el equipo de desarrollo (con .NET).  
+Desde la primera vez que escribi unas lineas de codigo me di cuenta que era a lo que me queria dedicar a esto. De manera simple, actualmente doy soporte a Software creado por alguien mas, ahora quiero ser yo la persona que escriba ese Software, poder hacerle mejoras y que este en crecimiento constante.

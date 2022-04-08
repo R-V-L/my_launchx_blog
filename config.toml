@@ -13,9 +13,9 @@ paginate = 3
 [params]
   google_analytics_id = ""
   # Hey Explorer aquí pon tu twitter 👇
-  twitter_handle = "@visual_partner"
+  twitter_handle = "@R_VZ_L"
   showAuthorOnHomepage = true
-  showAuthorOnPosts = false
-  showPostsOnHomepage = false
+  showAuthorOnPosts = true
+  showPostsOnHomepage = true
   addFrame = true
   addDot = true

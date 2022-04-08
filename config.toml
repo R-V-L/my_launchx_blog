@@ -15,7 +15,7 @@ paginate = 3
   # Hey Explorer aquí pon tu twitter 👇
   twitter_handle = "@R_VZ_L"
   showAuthorOnHomepage = true
-  showAuthorOnPosts = true
+  showAuthorOnPosts = false
   showPostsOnHomepage = true
   addFrame = true
   addDot = true

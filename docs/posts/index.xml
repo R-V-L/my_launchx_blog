@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://r-v-l.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Título de tu blog post</title>
+      <link>https://r-v-l.github.io/my_launchx_blog/posts/post_01/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://r-v-l.github.io/my_launchx_blog/posts/post_01/</guid>
+      <description>En estas semanas en LaunchX he podido aprender lo siguiente:
+ CSS Javascript VueJS  Sin embargo, aun mas que aprender, he podido reforzar las siguientes habilidades:
+ HTML GIT Consumo de APIs  Y espero aprender&amp;hellip;
+ NodeJS Creacion de APIs  </description>
+    </item>
+    
+    <item>
       <title>La Cultura de un Desarrollador de software</title>
       <link>https://r-v-l.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>

@@ -1,5 +1,5 @@
 ---
-title: 'About me'
+title: 'Acerca de'
 menu:
   main:
     name: "AboutMe"
